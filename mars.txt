@@ -1,1 +1,3 @@
 Mars rocks are red
+
+Mars does not have atmosphere!
